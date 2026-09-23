@@ -1,0 +1,66 @@
+{
+ "version": 1,
+ "note": "Vertical 2:3 crops of owner-supplied AI-assisted hero concept art (Sept 2026). Art only; frame/numeral rendered in code.",
+ "cards": {
+  "MA_00_EXCUSE": {
+   "src": "ChatGPT Image Sep 24, 2026, 12_13_29 AM.png",
+   "focalX": 0.57
+  },
+  "MA_01_PAGAT": {
+   "src": "dd551c5a-cc5a-4ed1-b2f2-cccaf7f01604.png",
+   "focalX": 0.47
+  },
+  "MA_03_EMPRESS": {
+   "src": "a35c973f-96f1-4d8d-80d3-3619db92cd3a.png",
+   "focalX": 0.45
+  },
+  "MA_04_EMPEROR": {
+   "src": "e59e25b6-f9f7-4844-bc14-9f939fd56d35.png",
+   "focalX": 0.52
+  },
+  "MA_05_HIEROPHANT": {
+   "src": "ChatGPT Image 17 sept. 2026, 22_41_22 (2).png",
+   "focalX": 0.5
+  },
+  "MA_07_CHARIOT": {
+   "src": "ChatGPT Image 17 sept. 2026, 22_41_00 (1).png",
+   "focalX": 0.5
+  },
+  "MA_08_JUSTICE": {
+   "src": "ChatGPT Image 17 sept. 2026, 22_41_25 (4).png",
+   "focalX": 0.63
+  },
+  "MA_09_HERMIT": {
+   "src": "ChatGPT Image 17 sept. 2026, 22_41_23 (3).png",
+   "focalX": 0.53
+  },
+  "MA_11_FORTITUDE": {
+   "src": "ChatGPT Image 17 sept. 2026, 22_41_27 (6).png",
+   "focalX": 0.55
+  },
+  "MA_13_DEATH": {
+   "src": "ee0bc0a5-2110-4264-9134-1b4e4b3c6c66 (1).png",
+   "focalX": 0.57
+  },
+  "MA_15_DEVIL": {
+   "src": "204f73c4-aae8-489d-ac51-e0be50d62f36.png",
+   "focalX": 0.45
+  },
+  "MA_17_STAR": {
+   "src": "ac9a2cc9-cee1-492b-a7ba-e2b176aee9fb.png",
+   "focalX": 0.48
+  },
+  "MA_18_MOON": {
+   "src": "f57b5a6d-5094-428c-ba50-9438baff65e7 (1).png",
+   "focalX": 0.52
+  },
+  "MA_19_SUN": {
+   "src": "47732c3c-b4b9-4146-a747-c48fbaa238c8.png",
+   "focalX": 0.46
+  },
+  "MA_21_WORLD": {
+   "src": "a5162748-6bcc-40c6-a972-829be45766fc.png",
+   "focalX": 0.52
+  }
+ }
+}
